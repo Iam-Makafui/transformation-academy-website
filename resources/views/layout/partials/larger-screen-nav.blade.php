@@ -5,11 +5,11 @@
             <div class="kingster-top-bar-left kingster-item-pdlr"><i class="fa fa-envelope-open-o" id="i_fd84_0"></i> contact@transformationacedemy.edu <i class="fa fa-phone" id="i_fd84_1"></i> +233 000 000000 / +233 000 000000</div>
             <div class="kingster-top-bar-right kingster-item-pdlr">
                 <ul id="kingster-top-bar-menu" class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu">
-                    <li class="menu-item kingster-normal-menu"><a href="#">Alumni</a></li>
-                    <li class="menu-item kingster-normal-menu"><a href="#">Calendar</a></li>
-                    <li class="menu-item kingster-normal-menu"><a href="#">Portal</a></li>
+                    {{-- <li class="menu-item kingster-normal-menu"><a href="#">Alumni</a></li> --}}
+                    <li class="menu-item kingster-normal-menu"><a href="/campus/calender">Calendar</a></li>
+                    {{-- <li class="menu-item kingster-normal-menu"><a href="#">Student/Teachers Portal</a></li> --}}
                 </ul>
-                <div class="kingster-top-bar-right-social"></div><a class="kingster-top-bar-right-button" href="#" target="_blank">Support TA</a></div>
+                <div class="kingster-top-bar-right-social"></div><a class="kingster-top-bar-right-button" href="#" target="_blank">Student / Teachers Portal</a></div>
         </div>
     </div>
 </div>
@@ -19,7 +19,7 @@
         <div class="kingster-header-container-inner clearfix">
             <div class="kingster-logo  kingster-item-pdlr">
                 <div class="kingster-logo-inner">
-                    <a class="" href="/"><img src="images/logo.png" alt="" /></a>
+                    <a class="" href="/"><img src="{{ asset('images/logo.png') }}" alt="" /></a>
                 </div>
             </div>
             <div class="kingster-navigation kingster-item-pdlr clearfix ">
@@ -28,11 +28,10 @@
                         <li class="menu-item menu-item-home {{ request()->is('/') ? 'current-menu-item' : ''}} kingster-normal-menu"><a href="/" class="sf-with-ul-pre">HOME</a></li>
                         <li class="menu-item menu-item-has-children {{ request()->is('about*') ? 'current-menu-item' : '' }} kingster-normal-menu"><a href="#" class="sf-with-ul-pre">ABOUT US</a>
                             <ul class="sub-menu">
-                                <li class="menu-item" data-size="60"><a href="{{ url('/about/history') }}">History</a></li>
-                                <li class="menu-item" data-size="60"><a href="/about/vision-and-mission">Vision & Mission</a></li>
+                                <li class="menu-item {{ request()->is('/about/history') ? 'current-menu-item' : ''}}" data-size="60"><a href="{{ url('/about/history') }}">History</a></li>
+                                <li class="menu-item {{ request()->is('/about/vision-and-mission') ? 'current-menu-item' : ''}}" data-size="60"><a href="{{ url('/about/vision-and-mission') }}">Vision & Mission</a></li>
                                 <li class="menu-item" data-size="60"><a href="/about/sections">Sections</a></li>
-                                <li class="menu-item" data-size="60"><a href="/about/alumini-stories">Alumini Stories</a></li>
-                                <li class="menu-item" data-size="60"><a href="/about/directors">Directors</a></li>
+                                <li class="menu-item" data-size="60"><a href="/about/director">Director</a></li>
                                 <li class="menu-item" data-size="60"><a href="/about/staff">Staff</a></li>
                             </ul>
                         </li>
@@ -40,19 +39,19 @@
                             <ul class="sub-menu">
                                 <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">Applications</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="/admissions/prospectus-form">Request Prospectus Form</a></li>
+                                        <li class="menu-item"><a href="/admissions/application-process">Application Process</a></li>
+                                        <li class="menu-item"><a href="/admissions/request-prospectus">Request Prospectus Form</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item" data-size="60"><a href="/admissions/faqs">FAQs</a></li>
                             </ul>
                         </li>
-
                         <li class="menu-item menu-item-has-children {{ request()->is('campus*') ? 'current-menu-item' : '' }} kingster-normal-menu"><a href="#" class="sf-with-ul-pre">CAMPUS</a>
                             <ul class="sub-menu">
-                                <li class="menu-item" data-size="60"><a href="/campus/programs">Programs / Syllabus</a></li>
+                                {{-- <li class="menu-item" data-size="60"><a href="/campus/programs">Programs / Syllabus</a></li> --}}
                                 <li class="menu-item" data-size="60"><a href="/campus/calender">Calender</a></li>
-                                <li class="menu-item" data-size="60"><a href="/campus/sports-and-extra-curricular">Sports and Extra Curricular</a></li>
-                                <li class="menu-item" data-size="60"><a href="/campus/resources">Resources</a></li>
+                                <li class="menu-item" data-size="60"><a href="/campus/sports-and-extracurricular">Sports and Extra Curricular</a></li>
+                                {{-- <li class="menu-item" data-size="60"><a href="/campus/resources">Resources</a></li> --}}
                                 <li class="menu-item" data-size="60"><a href="/campus/school-songs">School Songs</a></li>
                             </ul>
                         </li>
@@ -62,7 +61,7 @@
                     <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
                 </div>
                 <div class="kingster-main-menu-right-wrap clearfix ">
-                    <div class="kingster-main-menu-search" id="kingster-top-search"><i class="icon_search"></i></div>
+                    {{-- <div class="kingster-main-menu-search" id="kingster-top-search"><i class="icon_search"></i></div> --}}
                     <div class="kingster-top-search-wrap">
                         <div class="kingster-top-search-close"></div>
                         <div class="kingster-top-search-row">

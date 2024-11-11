@@ -4,7 +4,7 @@
             <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
                 <div id="text-2" class="widget widget_text kingster-widget">
                     <div class="textwidget">
-                        <p><img src="upload/footer-logo.png" alt="" />
+                        <p><img src="{{ asset('upload/footer-logo.png') }}" alt="" />
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                         Quasi porro harum eaque illo sequi odio. In, ut culpa magni
                          repellat fugiat sint quibusdam sapiente, aut accusantium perferendis,
@@ -33,9 +33,9 @@
                     <h3 class="kingster-widget-title">USEFUL LINKS</h3><span class="clear"></span>
                     <div class="menu-campus-life-container">
                         <ul id="menu-campus-life" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item"><a href="/campus/programs">Programs & Syllabus</a></li>
+                            {{-- <li class="menu-item"><a href="/campus/programs">Programs & Syllabus</a></li> --}}
                             <li class="menu-item"><a href="/about/history">Our History</a></li>
-                            <li class="menu-item"><a href="/about/directors">Directors</a></li>
+                            <li class="menu-item"><a href="/about/director">Director</a></li>
                             <li class="menu-item"><a href="/about/vision-and-mission">Vision & Mission</a></li>
                             <li class="menu-item"><a href="/admissions/faqs">FAQs</a></li>
                         </ul>
@@ -61,26 +61,19 @@
 
     <div class="kingster-copyright-wrapper">
         <div class="kingster-copyright-container kingster-container clearfix">
-            <div class="kingster-copyright-left kingster-item-pdlr">Copyright All Right Reserved 2019, Max Themes</div>
+            <div class="kingster-copyright-left kingster-item-pdlr">
+                Copyright All Rights Reserved <span id="current-year"></span>, Transformation Academy
+            </div>
             <div class="kingster-copyright-right kingster-item-pdlr">
                 <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" id="div_1dd7_112">
                     <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook">
-                        <i class="fa fa-facebook" ></i>
-                    </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus">
-                        <i class="fa fa-google-plus" ></i>
-                    </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin">
-                        <i class="fa fa-linkedin" ></i>
-                    </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype">
-                        <i class="fa fa-skype" ></i>
-                    </a>
-                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="twitter">
-                        <i class="fa fa-twitter" ></i>
+                        <i class="fa fa-facebook" style="color: #1bb7ea;"></i>
                     </a>
                     <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram">
-                        <i class="fa fa-instagram" ></i>
+                        <i class="fa fa-instagram" style="color: #1bb7ea;"></i>
+                    </a>
+                    <a href="#" target="_blank" class="gdlr-core-social-network-icon" title="youtube">
+                        <i class="fa fa-youtube" style="color: #1bb7ea;"></i>
                     </a>
                 </div>
             </div>

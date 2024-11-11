@@ -310,5 +310,8 @@
 	        document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
 	    } /*]]>*/
 	</script>
+    <script>
+        document.getElementById("current-year").textContent = new Date().getFullYear();
+    </script>
 </body>
 </html>
