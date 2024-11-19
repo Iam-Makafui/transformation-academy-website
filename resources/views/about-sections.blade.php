@@ -43,22 +43,22 @@
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align" style="margin-bottom: 25px ;">
                             <div class="gdlr-core-divider-container" style="max-width: 305px ;">
-                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #3db166 ;border-bottom-width: 4px ;"></div>
+                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #1bb7ea ;border-bottom-width: 4px ;"></div>
                             </div>
                         </div>
                     </div>
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
-                            <div class="gdlr-core-text-box-item-content" style="font-size: 19px ;text-transform: none ;color: #3db166 ;">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                                    <br /> there live the blind texts. Separated they live in</p>
+                            <div class="gdlr-core-text-box-item-content" style="font-size: 19px ;text-transform: none ;color: #1bb7ea ;">
+                                <p>Transformation Academy School is structured into three key divisions: Nursery, Kindergarten, and Primary. <br>
+                                     Each section is designed to provide age-appropriate learning experiences that foster intellectual, emotional, and physical development.</p>
                             </div>
                         </div>
                     </div>
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                             <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;text-transform: none ;color: #707070 ;">
-                                <p>Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so.</p>
+                                <p>From nurturing early creativity and curiosity in Nursery to building foundational skills in Kindergarten, and preparing future leaders in Primary, our programs are tailored to equip every child for success.</p>
                             </div>
                         </div>
                     </div>
@@ -83,6 +83,15 @@
                                             </td>
                                             <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
                                                 Assembly, Numeracy, Literacy, Discovery, PE, Art, Dance, Singing, Story Time
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">KINDERGARTEN</td>
+                                            <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+                                                <p style="margin: 0;">KG One, KG Two</p>
+                                            </td>
+                                            <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+                                                Assembly, Numeracy, Literacy, Phonics, Reading & Comprehension, Creative Writing, Art, PE, Story Time, Music, Discovery, Singing, and Extra-Curricular Activities
                                             </td>
                                         </tr>
                                         <tr style="background-color: #fafafa;">

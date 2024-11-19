@@ -56,7 +56,7 @@
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                 <div class="gdlr-core-text-box-item-content" id="div_983a_27">
-                                    <p>Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, studenst and life in this university. Meet our graduate admissions representative to learn more about our graduate programs and decide what it the best for you.</p>
+                                    <p>To be a leading educational institution in Ghana, inspiring young minds to achieve excellence, embrace innovation, and contribute positively to their communities and the nation.</p>
                                 </div>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                 <div class="gdlr-core-text-box-item-content" id="div_983a_36">
-                                    <p>Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, studenst and life in this university. Meet our graduate admissions representative to learn more about our graduate programs and decide what it the best for you.</p>
+                                    <p>Transformation Academy School is committed to providing quality and accessible education that nurtures academic success, moral integrity, and practical skills. We aim to empower students with knowledge, creativity, and compassion, equipping them to thrive in a dynamic world and drive Ghana’s development.</p>
                                 </div>
                             </div>
                         </div>

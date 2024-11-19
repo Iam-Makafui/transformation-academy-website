@@ -88,8 +88,8 @@
                                                                 <select  id="section" name="section" class="input1" aria-invalid="false" required>
                                                                     <option value="" selected disabled>Select Section</option>
                                                                     <option value="nursery">Nursery</option>
-                                                                    <option value="lower_primary">Lower Primary</option>
-                                                                    <option value="upper_primary">Upper Primary</option>
+                                                                    <option value="kindergarten">Kindergarten</option>
+                                                                    <option value="primary">Primary</option>
                                                                 </select>
                                                             </span>
                                                         </p>

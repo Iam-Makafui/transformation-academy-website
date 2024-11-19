@@ -118,4 +118,22 @@ class PagesController extends Controller
 
     }
 
+
+    //public funcion for retuurning view of the school canteen page
+    public function schoolCanteenPage()
+    {
+
+        return view('campus-school-canteen');
+
+    }
+
+
+    //public function for school gallery page
+    public function schoolGalleryPage()
+    {
+
+        return view('campus-school-gallery');
+
+    }
+
 }

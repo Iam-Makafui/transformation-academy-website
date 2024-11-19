@@ -52,9 +52,9 @@
                                 <div class="gdlr-core-column-service-media gdlr-core-character" style="margin-top: 5px;margin-right: 33px;margin-left: 7px;font-size: 45px ;color: #1bb7ea ;">1</div>
                                 <div class="gdlr-core-column-service-content-wrapper">
                                     <div class="gdlr-core-column-service-title-wrap">
-                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Start Online Submission</h3></div>
+                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;"> Inquiry and Information Gathering </h3></div>
                                     <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence.</p>
+                                        <p>Visit school or contact admissions office for information and reviews school's mission, programs, and requirements </p>
                                     </div>
                                 </div>
                             </div>
@@ -70,9 +70,9 @@
                                 <div class="gdlr-core-column-service-media gdlr-core-character" style="margin-top: 5px;margin-right: 28px;margin-left: 3px;font-size: 45px ;color: #1bb7ea ;">2</div>
                                 <div class="gdlr-core-column-service-content-wrapper">
                                     <div class="gdlr-core-column-service-title-wrap">
-                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Submit The Form</h3></div>
+                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Submission of school forms. </h3></div>
                                     <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence.</p>
+                                        <p>Submits form in addition to required documents (e.g., transcripts, birth certificate, ID), payment for admission fee will be made as well upon submission</p>
                                     </div>
                                 </div>
                             </div>
@@ -88,9 +88,10 @@
                                 <div class="gdlr-core-column-service-media gdlr-core-character" style="margin-top: 5px;font-size: 45px ;color: #1bb7ea ;">3</div>
                                 <div class="gdlr-core-column-service-content-wrapper">
                                     <div class="gdlr-core-column-service-title-wrap">
-                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Review The Submission</h3></div>
+                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Entrance Examination/Assessment</h3></div>
                                     <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence.</p>
+                                        <p>You will requited to take an entrance exam or assessment, this  includes interviews, aptitude tests, or other evaluations
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -106,9 +107,10 @@
                                 <div class="gdlr-core-column-service-media gdlr-core-character" style="margin-top: 5px;font-size: 45px ;color: #1bb7ea ;">4</div>
                                 <div class="gdlr-core-column-service-content-wrapper">
                                     <div class="gdlr-core-column-service-title-wrap">
-                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Gather Necessary Documents</h3></div>
+                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Review and Verification</h3></div>
                                     <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence.</p>
+                                        <p>The School  reviews admission and supporting documents - Verifies student's credentials and eligibility
+                                            </p>
                                     </div>
                                 </div>
                             </div>
@@ -124,9 +126,9 @@
                                 <div class="gdlr-core-column-service-media gdlr-core-character" style="margin-top: 5px;font-size: 45px ;color: #1bb7ea ;">5</div>
                                 <div class="gdlr-core-column-service-content-wrapper">
                                     <div class="gdlr-core-column-service-title-wrap">
-                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Interviewing Process</h3></div>
+                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Admission Decision </h3></div>
                                     <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence.</p>
+                                        <p> The School notifies applicant of admission decision (acceptance, rejection, or waitlist) this may include conditions or requirements for admission </p>
                                     </div>
                                 </div>
                             </div>
@@ -142,9 +144,9 @@
                                 <div class="gdlr-core-column-service-media gdlr-core-character" style="margin-top: 5px;font-size: 45px ;color: #1bb7ea ;">6</div>
                                 <div class="gdlr-core-column-service-content-wrapper">
                                     <div class="gdlr-core-column-service-title-wrap">
-                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Last Decision</h3></div>
+                                        <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 18px ;text-transform: none ;">Orientation and Integration </h3></div>
                                     <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence.</p>
+                                        <p>You will attend the orientation program, meet with your teachers and peers, and begin your classes as you integrate into the school community</p>
                                     </div>
                                 </div>
                             </div>

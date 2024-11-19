@@ -32,12 +32,12 @@
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                 <div class="gdlr-core-title-item-title-wrap clearfix">
-                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 35px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">Steve Cook</h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-weight: 500 ;font-style: normal ;color: #3db166 ;">CEO, Apple and MBA, Kingster</span></div>
+                                    <h4 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 35px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">Rev. Mrs. Patience Ocansey & Pastor David Ocansey </h4></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-weight: 500 ;font-style: normal ;color: #1bb7ea ;">Directors, Transformation Academy School</span></div>
                         </div>
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px ;">
                                 <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;text-transform: none ;color: #ffffff ;">
-                                    <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. Housed in a nice, gilded frame.</p>
+                                    <p>It is with great pride that we welcome you to Transformation Academy School, a place where we are dedicated to shaping leaders for tomorrow. Here, we nurture not just the mind but also the heart and hands, ensuring every child grows holistically. Our commitment is to provide a supportive, stimulating environment where students thrive, discover their potential, and build skills to excel in a changing world. Together with our dedicated team, we prepare students to make meaningful contributions to their communities and beyond. Thank you for choosing Transformation Academy School. Let’s grow together.</p>
                                 </div>
                             </div>
                         </div>

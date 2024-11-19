@@ -67,7 +67,11 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" id="div_983a_7">
-                                            <p>If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use special formulas to select students. We look at every single applicant&#8217;s application, academic and personal, to select students who suit to our community with a full range of backgrounds. If you would like to study</p>
+                                            <p>Transformation Academy School was established to bring quality
+                                                 education to our community, addressing the pressing need for
+                                                  accessible and reliable schooling in the area. At a time when
+                                                   there was only one school serving the entire neighborhood,
+                                                    our founders stepped up to provide a beacon of hope for parents and children alike.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -80,7 +84,9 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" id="div_983a_8">
-                                            <p>If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use special formulas to select students. We look at every single applicantt&#8217;s application, academic and personal, to select students who suit to our community.</p>
+                                            <p>With a passion for nurturing young minds, the school has grown to become a vital part of the educational landscape. Today, Transformation Academy School is proud to be among the thousands of basic schools in Ghana, contributing to the nation's goal of providing inclusive and equitable education for all.
+
+                                                Our mission remains simple yet powerful: to empower children with the knowledge, skills, and values they need to thrive and lead in their communities and beyond.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -101,7 +107,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_983a_12"><img src="{{ asset('upload/col-icon-3.png') }}" alt="" width="40" height="43" title="col-icon-3" /></div>
+                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_983a_12"><img src="{{ asset('images/head-green-thick.png') }}" alt="" width="40" height="43" title="col-icon-3" /></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -113,7 +119,8 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" id="div_983a_14">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence.</p>
+                                            <p>We cultivate intellectual curiosity, critical thinking, and a love for learning, preparing
+                                                 students to excel academically and solve real-world challenges</p>
                                         </div>
                                     </div>
                                 </div>
@@ -125,7 +132,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_983a_15"><img src="{{ asset('upload/col-icon-4.png') }}" alt="" width="47" height="47" title="col-icon-4" /></div>
+                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_983a_15"><img src="{{ asset('images/heart-green.png') }}" alt="" width="47" height="47" title="col-icon-4" /></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -137,7 +144,8 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" id="div_983a_17">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence.</p>
+                                            <p>Empathy and compassion are at the core of our education, fostering a sense of responsibility,
+                                                 kindness, and a commitment to community and humanity.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -149,7 +157,7 @@
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_983a_18"><img src="{{ asset('upload/col-icon-2.png') }}" alt="" width="43" height="45" title="col-icon-2" /></div>
+                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_983a_18"><img src="{{ asset('images/hands-green.png') }}" alt="" width="43" height="45" title="col-icon-2" /></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -161,7 +169,7 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" id="div_983a_20">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence.</p>
+                                            <p>Practical skills and creativity come to life as we empower students to apply their knowledge and contribute meaningfully to society.</p>
                                         </div>
                                     </div>
                                 </div>

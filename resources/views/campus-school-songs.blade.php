@@ -49,21 +49,30 @@
                     <div class="gdlr-core-pbf-element" style="display:flex;align-items-center;justify-content:center;">
                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                             <div class="gdlr-core-text-box-item-content" style="font-size: 18px ;text-transform: none ;color: #707070 ;">
-                               <h1 style="color: #192f59;">SCHOOL SONG - LYRICS</h1>
-                               <small style="display: flex; align-items: center; justify-content: center;">Transformation Academy School Song</small>
+                               <h1 style="color: #192f59;">ANTHEM - LYRICS</h1>
+                               <small style="display: flex; align-items: center; justify-content: center;">Transformation Academy School Anthem</small>
                                <p style="color: #192f59; font-size: 20px;">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Arise Transformation to your hight,
                                 <br>
-                                 Consectetur optio voluptatem, tempora explicabo
+                                The School of hope and talent.
                                  <br>
-                                 molestiae rem perfere
+                                 Arise Transformation to your hight,
                                  <br>
+                                 The School of achievement and pride.
+                                <br>
+                                Greater hight, Greater hight
+                                <br>
+                                Greater hight, Greater hight  <sup><i>2X</i></sup>
                                  <br>
-                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                 We're moving towards our goal,
                                  <br>
-                                  Consectetur optio voluptatem, tempora explicabo
-                                  <br>
-                                  molestiae rem perfere
+                                 Greater hight, Greater hight,
+                                 <br>
+                                 Greater hight, Greater hight,
+                                 <br>
+                                 The School of Greater tomorrow.
+                                 <br>
+                                 Arise.
                                </p>
                         </div>
                     </div>

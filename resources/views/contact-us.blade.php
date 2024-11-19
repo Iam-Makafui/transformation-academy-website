@@ -45,7 +45,9 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 35px ;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;">
-                                            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+                                            <p>
+                                                We would love to hear from you! Whether you have questions, need assistance, or simply want to connect, our team is here to help. Reach out to us, and let’s create meaningful conversations together.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -109,8 +111,8 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
-                                            <p>4 apt. Flawing Street. The Grand Avenue.
-                                                <br />Liverpool, UK 33342</p>
+                                            <p>GD-103-9283.
+                                                L932,   <br />SCANIA, ST</p>
                                         </div>
                                     </div>
                                 </div>
@@ -118,10 +120,10 @@
                                     <div class="gdlr-core-icon-list-item gdlr-core-item-pdlr gdlr-core-item-pdb clearfix ">
                                         <ul>
                                             <li class=" gdlr-core-skin-divider gdlr-core-with-hover"><span class="gdlr-core-icon-list-icon-wrap"><i class="gdlr-core-icon-list-icon-hover fa fa-envelope-o" style="font-size: 16px ;"  ></i><i class="gdlr-core-icon-list-icon fa fa-envelope-o" style="font-size: 16px ;width: 16px ;" ></i></span>
-                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 16px ;">contact@infinitewptheme.com</span></div>
+                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 16px ;">transformationacademyghana@gmail.com</span></div>
                                             </li>
                                             <li class=" gdlr-core-skin-divider gdlr-core-with-hover"><span class="gdlr-core-icon-list-icon-wrap"><i class="gdlr-core-icon-list-icon-hover fa fa-phone" style="font-size: 16px ;"  ></i><i class="gdlr-core-icon-list-icon fa fa-phone" style="font-size: 16px ;width: 16px ;" ></i></span>
-                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 16px ;">+1-3524-3356</span></div>
+                                                <div class="gdlr-core-icon-list-content-wrap"><span class="gdlr-core-icon-list-content" style="font-size: 16px ;">+233 535 467070 / +233 548 445839 / +233 558 214460</span></div>
                                             </li>
                                         </ul>
                                     </div>
@@ -136,7 +138,7 @@
                                     <div class="gdlr-core-wp-google-map-plugin-item gdlr-core-item-pdlr gdlr-core-item-pdb " style="padding-bottom: 0px ;">
                                         <div style="overflow:hidden;width: 100%;position: relative;">
 
-                                            <iframe style="width:100%; height:380px; " src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d19905.696399556287!2d-0.3007084089960577!3d51.417531259591925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s2334+Peterson+Street+Kingston+UK+London+H14D!5e0!3m2!1sen!2s!4v1546697086219" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15879.355127436167!2d-0.1442894!3d5.7363441!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf79005ce5e7bb%3A0xa4e2c594c115ebcc!2sTransformation%20Academy!5e0!3m2!1sen!2sgh!4v1732017113187!5m2!1sen!2sgh" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                             <div style="position: absolute;width: 80%;bottom: 20px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;">
 
                                             </div>

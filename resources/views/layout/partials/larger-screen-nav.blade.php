@@ -2,7 +2,7 @@
     <div class="kingster-top-bar-background"></div>
     <div class="kingster-top-bar-container kingster-container ">
         <div class="kingster-top-bar-container-inner clearfix">
-            <div class="kingster-top-bar-left kingster-item-pdlr"><i class="fa fa-envelope-open-o" id="i_fd84_0"></i> contact@transformationacedemy.edu <i class="fa fa-phone" id="i_fd84_1"></i> +233 000 000000 / +233 000 000000</div>
+            <div class="kingster-top-bar-left kingster-item-pdlr"><i class="fa fa-envelope-open-o" id="i_fd84_0"></i> transformationacademyghana@gmail.com <i class="fa fa-phone" id="i_fd84_1"></i> +233 535 467070 / +233 548 445839 / +233 558 214460</div>
             <div class="kingster-top-bar-right kingster-item-pdlr">
                 <ul id="kingster-top-bar-menu" class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu">
                     {{-- <li class="menu-item kingster-normal-menu"><a href="#">Alumni</a></li> --}}
@@ -31,7 +31,7 @@
                                 <li class="menu-item {{ request()->is('/about/history') ? 'current-menu-item' : ''}}" data-size="60"><a href="{{ url('/about/history') }}">History</a></li>
                                 <li class="menu-item {{ request()->is('/about/vision-and-mission') ? 'current-menu-item' : ''}}" data-size="60"><a href="{{ url('/about/vision-and-mission') }}">Vision & Mission</a></li>
                                 <li class="menu-item" data-size="60"><a href="/about/sections">Sections</a></li>
-                                <li class="menu-item" data-size="60"><a href="/about/director">Director</a></li>
+                                <li class="menu-item" data-size="60"><a href="/about/directors">Directors</a></li>
                                 <li class="menu-item" data-size="60"><a href="/about/staff">Staff</a></li>
                             </ul>
                         </li>
@@ -53,6 +53,8 @@
                                 <li class="menu-item" data-size="60"><a href="/campus/sports-and-extracurricular">Sports and Extra Curricular</a></li>
                                 {{-- <li class="menu-item" data-size="60"><a href="/campus/resources">Resources</a></li> --}}
                                 <li class="menu-item" data-size="60"><a href="/campus/school-songs">School Songs</a></li>
+                                <li class="menu-item" data-size="60"><a href="/campus/school-canteen">School Canteen</a></li>
+                                <li class="menu-item" data-size="60"><a href="/campus/school-gallery">School Gallery</a></li>
                             </ul>
                         </li>
 

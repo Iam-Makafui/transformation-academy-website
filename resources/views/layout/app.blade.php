@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Discover Transformation Academy School, a leading educational institution in Ghana. Offering Nursery, Kindergarten, and Primary education, we provide a nurturing environment that fosters academic excellence, creativity, and leadership skills. Join us in shaping the future of young minds.">
+    <meta name="keywords" content="Transformation Academy School, schools in Ghana, nursery schools in Ghana, kindergarten education in Ghana, primary schools in Ghana, quality education, Ghana basic schools, best schools in Ghana, holistic learning, child development">
+    <meta name="author" content="Transformation Academy School">
+
+    <!-- Social Media Meta Tags -->
+    <meta property="og:title" content="Transformation Academy School - With Head, Heart and Hands">
+    <meta property="og:description" content="Providing quality education in Ghana from Nursery to Primary. Explore a school that nurtures creativity, excellence, and leadership skills in young learners.">
+    <meta property="og:image" content="URL_to_school_logo_or_image.jpg">
+    <meta property="og:url" content="URL_of_the_school_website">
+    <meta property="og:type" content="website">
+
     <title> @yield('page_title') </title>
 
     <link rel='stylesheet' href='{{ asset('plugins/goodlayers-core/plugins/combine/style.css') }}' type='text/css' media='all' />
@@ -14,6 +26,12 @@
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700%2C400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CABeeZee%3Aregular%2Citalic&amp;subset=latin%2Clatin-ext%2Cdevanagari&amp;ver=5.0.3' type='text/css' media='all' />
+
+    <link rel="icon" type="image/png" href="{{ asset('images/favicon-96x96.png') }}" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="{{ asset('images/favicon.svg') }}" />
+    <link rel="shortcut icon" href="{{ asset('images/favicon.ico') }}" />
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('images/apple-touch-icon.png') }}" />
+
 
 </head>
 <body class="home page-template-default page page-id-2039 gdlr-core-body woocommerce-no-js tribe-no-js kingster-body kingster-body-front kingster-full  kingster-with-sticky-navigation  kingster-blockquote-style-1 gdlr-core-link-to-lightbox">
@@ -313,5 +331,8 @@
     <script>
         document.getElementById("current-year").textContent = new Date().getFullYear();
     </script>
+    <script>
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+      </script>
 </body>
 </html>

@@ -17,7 +17,7 @@
     <div class="kingster-header-transparent-substitute"></div>
     <div class="kingster-page-title-overlay"></div>
     <div class="kingster-page-title-container kingster-container">
-        <div class="kingster-page-title-content kingster-item-pdlr">    
+        <div class="kingster-page-title-content kingster-item-pdlr">
             <h1 class="kingster-page-title">TERM DATES FOR THE 2024 – 2025 ACADEMIC YEAR</h1></div>
     </div>
 </div>
@@ -42,7 +42,7 @@
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align" style="margin-bottom: 25px ;">
                             <div class="gdlr-core-divider-container" style="max-width: 305px ;">
-                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #3db166 ;border-bottom-width: 4px ;"></div>
+                                <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #1bb7ea ;border-bottom-width: 4px ;"></div>
                             </div>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                                                 <p style="margin: 0;">School Reopening</p>
                                             </td>
                                             <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
-                                                Nursery One, Nursery Two, Lower Primary, Upper Primary
+                                                Nursery, Kindergarten, Primary
                                             </td>
                                         </tr>
                                     </tbody>

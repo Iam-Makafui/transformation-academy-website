@@ -6243,3 +6243,7 @@ body .tribe-bar-views-inner {
 	cursor: pointer;
 	font-style: normal;
 }
+
+.slider-link:hover {
+    color: #1bb7ea !important;
+}

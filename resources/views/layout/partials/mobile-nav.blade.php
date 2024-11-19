@@ -30,7 +30,7 @@
                                     <li class="menu-item {{ request()->is('/about/history') ? 'current-menu-item' : ''}}" data-size="60"><a href="{{ url('/about/history') }}">History</a></li>
                                     <li class="menu-item {{ request()->is('/about/vision-and-mission') ? 'current-menu-item' : ''}}" data-size="60"><a href="{{ url('/about/vision-and-mission') }}">Vision & Mission</a></li>
                                     <li class="menu-item" data-size="60"><a href="/about/sections">Sections</a></li>
-                                    <li class="menu-item" data-size="60"><a href="/about/director">Director</a></li>
+                                    <li class="menu-item" data-size="60"><a href="/about/directors">Directors</a></li>
                                     <li class="menu-item" data-size="60"><a href="/about/staff">Staff</a></li>
                                 </ul>
                             </li>
@@ -52,6 +52,7 @@
                                     <li class="menu-item" data-size="60"><a href="/campus/sports-and-extra-curricular">Sports and Extra Curricular</a></li>
                                     {{-- <li class="menu-item" data-size="60"><a href="/campus/resources">Resources</a></li> --}}
                                     <li class="menu-item" data-size="60"><a href="/campus/school-songs">School Songs</a></li>
+                                    <li class="menu-item" data-size="60"><a href="/campus/school-canteen">School Canteen</a></li>
                                 </ul>
                             </li>
 

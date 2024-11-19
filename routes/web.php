@@ -21,8 +21,8 @@ Route::get('/about/vision-and-mission', [PagesController::class, 'visionMissionP
 //route for sections page
 Route::get('/about/sections', [PagesController::class, 'sectionsPage'])->name('/about/sections');
 
-//route for director page
-Route::get('/about/director', [PagesController::class, 'directorsPage'])->name('/about/director');
+//route for directors page
+Route::get('/about/directors', [PagesController::class, 'directorsPage'])->name('/about/directors');
 
 //route for staffs page
 Route::get('/about/staff', [PagesController::class, 'staffsPage'])->name('/about/staff');
@@ -45,8 +45,17 @@ Route::get('/campus/calender', [PagesController::class, 'academicCalenderPage'])
 //route for schools song  page
 Route::get('/campus/school-songs', [PagesController::class, 'schoolSongsPage'])->name('/campus/school-songs');
 
+
+//route for schools song  page
+Route::get('/campus/school-canteen', [PagesController::class, 'schoolCanteenPage'])->name('/campus/school-canteen');
+
+
 //route for extracurricular page
 Route::get('/campus/sports-and-extracurricular', [PagesController::class, 'sportsAndExtraCirricularPage'])->name('/campus/sports-and-extracurricular');
+
+//route for school gallery page
+Route::get('/campus/school-gallery', [PagesController::class, 'schoolGalleryPage'])->name('/campus/school-gallery');
+
 
 //route for contact us page
 Route::get('/contact', [PagesController::class, 'contactUsPage'])->name('/contact');

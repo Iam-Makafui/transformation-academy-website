@@ -4,11 +4,10 @@
             <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
                 <div id="text-2" class="widget widget_text kingster-widget">
                     <div class="textwidget">
-                        <p><img src="{{ asset('upload/footer-logo.png') }}" alt="" />
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                        Quasi porro harum eaque illo sequi odio. In, ut culpa magni
-                         repellat fugiat sint quibusdam sapiente, aut accusantium perferendis,
-                          optio quia aliquam?....  <span><a href="/about/history" target="_blank">Read more</a></span>
+                        <p><img src="{{ asset('images/logo_white.png') }}" alt="" />
+                            Our mission remains simple yet powerful: to empower children
+                             with the knowledge, skills, and values they need to thrive and
+                              lead in their communities and beyond .....<span><a href="/about/history" target="_blank">Read more</a></span>
                         </p>
                         <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
                             <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_111"></div>
@@ -17,26 +16,26 @@
                 </div>
             </div>
             <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
-                <div id="gdlr-core-custom-menu-widget-2" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
-                    <h3 class="kingster-widget-title">SCHOOLS</h3><span class="clear"></span>
-                    <div class="menu-our-campus-container">
-                        <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item"><a href="/sections/nusery-school">Nursery School</a></li>
-                            <li class="menu-item"><a href="/sections/lower-primary-school">Lower Primary School</a></li>
-                            <li class="menu-item"><a href="/sections/upper-primary-school">Upper Primary School</a></li>
+                <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                    <h3 class="kingster-widget-title">ABOUT US</h3><span class="clear"></span>
+                    <div class="menu-campus-life-container">
+                        <ul id="menu-campus-life" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
+                            {{-- <li class="menu-item"><a href="/campus/programs">Programs & Syllabus</a></li> --}}
+                            <li class="menu-item"><a href="/about/history">Our History</a></li>
+                            <li class="menu-item"><a href="/about/directors">Directors</a></li>
+                            <li class="menu-item"><a href="/about/vision-and-mission">Vision & Mission</a></li>
+                            <li class="menu-item"><a href="/about/sections">Sections</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
-                <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                <div id="gdlr-core-custom-menu-widget-2" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
                     <h3 class="kingster-widget-title">USEFUL LINKS</h3><span class="clear"></span>
-                    <div class="menu-campus-life-container">
-                        <ul id="menu-campus-life" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            {{-- <li class="menu-item"><a href="/campus/programs">Programs & Syllabus</a></li> --}}
-                            <li class="menu-item"><a href="/about/history">Our History</a></li>
-                            <li class="menu-item"><a href="/about/director">Director</a></li>
-                            <li class="menu-item"><a href="/about/vision-and-mission">Vision & Mission</a></li>
+                    <div class="menu-our-campus-container">
+                        <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
+                            <li class="menu-item"><a href="/admissions/application-process">Admission Process</a></li>
+                            <li class="menu-item"><a href="/admissions/request-prospectus">Request Prospectus</a></li>
                             <li class="menu-item"><a href="/admissions/faqs">FAQs</a></li>
                         </ul>
                     </div>
@@ -47,11 +46,11 @@
                     <h3 class="kingster-widget-title">CONTACT US</h3><span class="clear"></span>
                     <div class="menu-academics-container">
                         <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item"><a href="#">Box 35300 </a></li>
-                            <li class="menu-item"><a href="#">1810 Campus Way NE </a></li>
-                            <li class="menu-item"><a href="#">Bothell, WA 98011-8246</a></li>
-                            <li class="menu-item"><a href="#">+233 000 000000 / +233 000 000000</a></li>
-                            <li class="menu-item"><a href="#">contact@transformationacedemy.edu</a></li>
+                            <li class="menu-item"><a href="#">GD-103-9283 </a></li>
+                            <li class="menu-item"><a href="#">L932 </a></li>
+                            <li class="menu-item"><a href="#">SCANIA, ST</a></li>
+                            <li class="menu-item"><a href="#"> +233 535 467070 / +233 548 445839 / +233 558 214460</a></li>
+                            <li class="menu-item"><a href="#">transformationacademyghana@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>
