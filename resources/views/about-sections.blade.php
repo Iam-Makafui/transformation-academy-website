@@ -14,7 +14,7 @@
 
 <!-- Main Body Content -->
 @section('body_content')
-<div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url(upload/page-title-athletics.jpg) ;">
+<div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url({{ asset('images/about_us/about_us_history_breadcrumb.png') }}) ;">
     <div class="kingster-header-transparent-substitute"></div>
     <div class="kingster-page-title-overlay"></div>
     <div class="kingster-page-title-bottom-gradient"></div>

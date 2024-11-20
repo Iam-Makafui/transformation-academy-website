@@ -14,7 +14,7 @@
 
 <!-- Main Body Content -->
 @section('body_content')
-<div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url(upload/page-title-apply.jpg) ;">
+<div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url({{ asset('images/admission/admission_process.png') }}) ;">
     <div class="kingster-header-transparent-substitute"></div>
     <div class="kingster-page-title-overlay"></div>
     <div class="kingster-page-title-bottom-gradient"></div>

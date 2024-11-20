@@ -57,8 +57,8 @@
                                             <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href="#" >Mr. Eric Mensah Larvie </a></h3>
                                             <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">First Administrator</div>
                                             <div class="gdlr-core-personnel-info">
-                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>Jhangensy@kingsteruni.edu</div>
-                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+1-2351-2361-355</div>   
+                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>dummytext@transformation.edu</div>
+                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+233 00 000 0000</div>
                                             </div>
                                         </div>
                                     </div>
@@ -66,7 +66,7 @@
                                 <div class="gdlr-core-personnel-list-column  gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
                                         <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="#"><img src="{{ asset('upload/personnel-2-500x500.jpg') }}" alt="" width="500" height="500" title="personnel-2" /></a>
+                                            <a href="#"><img src="{{ asset('images/staff/staff_image_1.png') }}" alt="" width="500" height="500" title="personnel-2" /></a>
                                         </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             {{-- <div class="gdlr-core-personnel-list-social">
@@ -75,11 +75,11 @@
                                             <p></p>
                                             <p></p>
                                             <br>
-                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href="#" >Fernando Smith, PhD</a></h3>
-                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Assistant Professor</div>
+                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href="#" >Lorem Ipsum Daren</a></h3>
+                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Position</div>
                                             <div class="gdlr-core-personnel-info">
-                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>fernandoSm@kingsteruni.edu</div>
-                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+1-2351-2361-355</div>
+                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>dummytext@transformation.edu</div>
+                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+233 00 000 0000</div>
                                             </div>
                                         </div>
                                     </div>
@@ -87,7 +87,7 @@
                                 <div class="gdlr-core-personnel-list-column  gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
                                         <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href=#personnel/steve-cook-phd/index.html"><img src="{{ asset('upload/personnel-7-500x500.jpg') }}" alt="" width="500" height="500" title="personnel-7" /></a>
+                                            <a href=#personnel/steve-cook-phd/index.html"><img src="{{ asset('images/staff/staff_image_2.png') }}" alt="" width="500" height="500" title="personnel-7" /></a>
                                         </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             {{-- <div class="gdlr-core-personnel-list-social">
@@ -96,11 +96,11 @@
                                             <p></p>
                                             <p></p>
                                             <br>
-                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href=#personnel/steve-cook-phd/index.html" >Steve Cook, PhD</a></h3>
-                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Adjunct Professor</div>
+                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href=#" >Lorem Ipsum Daren</a></h3>
+                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Position</div>
                                             <div class="gdlr-core-personnel-info">
-                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>stevecook@kingsteruni.edu</div>
-                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+1-2351-2361-355</div>
+                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>dummytext@transformation.edu</div>
+                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+233 00 000 0000</div>
                                             </div>
                                         </div>
                                     </div>
@@ -108,7 +108,7 @@
                                 <div class="gdlr-core-personnel-list-column  gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
                                         <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href=#personnel/susan-jensen-phd/index.html"><img src="{{ asset('upload/shutterstock_361957010-500x500.jpg') }}" alt="" width="500" height="500" title="shutterstock_361957010" /></a>
+                                            <a href=#personnel/susan-jensen-phd/index.html"><img src="{{ asset('images/staff/staff_image_3.png') }}" alt="" width="500" height="500" title="shutterstock_361957010" /></a>
                                         </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             {{-- <div class="gdlr-core-personnel-list-social">
@@ -117,11 +117,116 @@
                                             <p></p>
                                             <p></p>
                                             <br>
-                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href=#personnel/susan-jensen-phd/index.html" >Susan Jensen, PhD</a></h3>
-                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Assistant Professor</div>
+                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href=#personnel/susan-jensen-phd/index.html" >Lorem Ipsum Daren</a></h3>
+                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Position</div>
                                             <div class="gdlr-core-personnel-info">
-                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>Susanjens@kingsteruni.edu</div>
-                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+1-2351-2361-355</div>
+                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>dummytext@transformation.edu</div>
+                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+233 00 000 0000</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-personnel-list-column  gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
+                                    <div class="gdlr-core-personnel-list clearfix">
+                                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                            <a href=#personnel/susan-jensen-phd/index.html"><img src="{{ asset('images/staff/staff_image_4.png') }}" alt="" width="500" height="500" title="shutterstock_361957010" /></a>
+                                        </div>
+                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                            {{-- <div class="gdlr-core-personnel-list-social">
+                                                <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 18px ;color: #50bd77 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-twitter" ></i></a></div>
+                                            </div> --}}
+                                            <p></p>
+                                            <p></p>
+                                            <br>
+                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href=#personnel/susan-jensen-phd/index.html" >Lorem Ipsum Daren</a></h3>
+                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Position</div>
+                                            <div class="gdlr-core-personnel-info">
+                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>dummytext@transformation.edu</div>
+                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+233 00 000 0000</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-personnel-list-column  gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
+                                    <div class="gdlr-core-personnel-list clearfix">
+                                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                            <a href=#personnel/susan-jensen-phd/index.html"><img src="{{ asset('images/staff/staff_image_5.png') }}" alt="" width="500" height="500" title="shutterstock_361957010" /></a>
+                                        </div>
+                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                            {{-- <div class="gdlr-core-personnel-list-social">
+                                                <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 18px ;color: #50bd77 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-twitter" ></i></a></div>
+                                            </div> --}}
+                                            <p></p>
+                                            <p></p>
+                                            <br>
+                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href=#personnel/susan-jensen-phd/index.html" >Lorem Ipsum Daren</a></h3>
+                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Position</div>
+                                            <div class="gdlr-core-personnel-info">
+                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>dummytext@transformation.edu</div>
+                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+233 00 000 0000</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-personnel-list-column  gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
+                                    <div class="gdlr-core-personnel-list clearfix">
+                                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                            <a href=#personnel/susan-jensen-phd/index.html"><img src="{{ asset('images/staff/staff_image_6.png') }}" alt="" width="500" height="500" title="shutterstock_361957010" /></a>
+                                        </div>
+                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                            {{-- <div class="gdlr-core-personnel-list-social">
+                                                <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 18px ;color: #50bd77 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-twitter" ></i></a></div>
+                                            </div> --}}
+                                            <p></p>
+                                            <p></p>
+                                            <br>
+                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href=#personnel/susan-jensen-phd/index.html" >Lorem Ipsum Daren</a></h3>
+                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Position</div>
+                                            <div class="gdlr-core-personnel-info">
+                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>dummytext@transformation.edu</div>
+                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+233 00 000 0000</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-personnel-list-column  gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
+                                    <div class="gdlr-core-personnel-list clearfix">
+                                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                            <a href=#personnel/susan-jensen-phd/index.html"><img src="{{ asset('images/staff/staff_image_7.png') }}" alt="" width="500" height="500" title="shutterstock_361957010" /></a>
+                                        </div>
+                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                            {{-- <div class="gdlr-core-personnel-list-social">
+                                                <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 18px ;color: #50bd77 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-twitter" ></i></a></div>
+                                            </div> --}}
+                                            <p></p>
+                                            <p></p>
+                                            <br>
+                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href=#personnel/susan-jensen-phd/index.html" >Lorem Ipsum Daren</a></h3>
+                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Position</div>
+                                            <div class="gdlr-core-personnel-info">
+                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>dummytext@transformation.edu</div>
+                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+233 00 000 0000</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-personnel-list-column  gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
+                                    <div class="gdlr-core-personnel-list clearfix">
+                                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                            <a href=#personnel/susan-jensen-phd/index.html"><img src="{{ asset('images/staff/staff_image_8.png') }}" alt="" width="500" height="500" title="shutterstock_361957010" /></a>
+                                        </div>
+                                        <div class="gdlr-core-personnel-list-content-wrap">
+                                            {{-- <div class="gdlr-core-personnel-list-social">
+                                                <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 18px ;color: #50bd77 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 18px ;color: #50bd77 ;margin-left: 14px ;"><i class="fa fa-twitter" ></i></a></div>
+                                            </div> --}}
+                                            <p></p>
+                                            <p></p>
+                                            <br>
+                                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;"><a href=#personnel/susan-jensen-phd/index.html" >Lorem Ipsum Daren</a></h3>
+                                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px ;font-weight: 500 ;font-style: normal ;letter-spacing: 0px ;">Position</div>
+                                            <div class="gdlr-core-personnel-info">
+                                                <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>dummytext@transformation.edu</div>
+                                                <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>+233 00 000 0000</div>
                                             </div>
                                         </div>
                                     </div>
